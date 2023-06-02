@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{119E1A2F-699D-4E46-964C-5BB9C38E1B4D}"
+	ProjectSection(SolutionItems) = preProject
+		ajax-datatables.js = ajax-datatables.js
+		script.js = script.js
+		jquery-ajax.js = jquery-ajax.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF23D1D-A0F2-4105-ACB4-37D4F5DFD1C4}
+	EndGlobalSection
+EndGlobal
