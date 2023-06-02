@@ -1,4 +1,5 @@
 // JavaScript source code
+//Ajax-datatable olusturma
 $(document).ready(function () {
     $('#exampleTable').DataTable({
         "ajax": {
